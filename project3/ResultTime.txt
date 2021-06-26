@@ -1,0 +1,105 @@
+Amrutha Prakash Veena
+Gunjan Gupta
+Kirti Chaudhari
+____________________________________________________
+
+#Query 1
+
+For Small.bin
+
+
+real	0m0.043
+s
+user	0m0.006
+s
+sys	0m0.010s
+
+
+
+
+For large.bin
+
+
+real	7m58.188
+
+user	0m44.344s
+
+sys	2m3.901s
+
+
+
+#Query2
+
+
+For Small.bin
+
+
+real	0m0.036s
+
+user	0m0.011s
+
+sys	0m0.005s
+
+
+
+For large.bin
+
+
+
+real	300m0.000s
+
+user	91m0.666s
+
+sys	41m0.666s
+
+
+
+#Query3
+
+For small.bin
+
+
+real	0m0.056s
+
+user	0m0.011s
+
+sys	0m0.013s
+
+
+
+For large.bin
+
+
+real	466m0.666s
+
+user	91m0.036s
+
+sys	108m0.333s
+
+
+
+#Query4
+
+For small.bin
+
+
+
+real	0m0.086s
+
+user	0m0.009s
+
+sys	0m0.019s
+
+
+
+For large.bin
+real	716m66.666s
+
+
+
+
+
+
+user	75m0.000s
+
+sys	158m33.333s
